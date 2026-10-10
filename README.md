@@ -63,8 +63,13 @@ ROS • MATLAB/Simulink • SolidWorks • Control Systems • Robotics • Embe
 - Embedded Systems
 - Robotics & Mechatronics R&D
 
+## Portfolio
+
+🌐 [abdulrahman6333.github.io/AbdulrahmanKhedr](https://abdulrahman6333.github.io/AbdulrahmanKhedr/)
+
 ## Contact
 
+- **Portfolio:** [abdulrahman6333.github.io/AbdulrahmanKhedr](https://abdulrahman6333.github.io/AbdulrahmanKhedr/)
 - **LinkedIn:** [linkedin.com/in/abdulrahman-khedr](https://www.linkedin.com/in/abdulrahman-khedr/)
 - **GitHub:** [github.com/Abdulrahman6333](https://github.com/Abdulrahman6333)
 - **Email:** khedr6333@gmail.com
